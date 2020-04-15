@@ -1,4 +1,4 @@
-= Contributor Code of Conduct
+# Contributor Code of Conduct
 
 As contributors and maintainers of this project, and in the interest of fostering an open
 and welcoming community, we pledge to respect all people who contribute through reporting
@@ -40,5 +40,5 @@ appropriate to the circumstances. Maintainers are obligated to maintain confiden
 with regard to the reporter of an incident.
 
 This Code of Conduct is adapted from the
-https://contributor-covenant.org[Contributor Covenant], version 1.3.0, available at
-https://contributor-covenant.org/version/1/3/0/[contributor-covenant.org/version/1/3/0/]
+[Contributor Covenant](https://contributor-covenant.org), version 1.3.0, available at
+[contributor-covenant.org/version/1/3/0/](https://contributor-covenant.org/version/1/3/0/)
